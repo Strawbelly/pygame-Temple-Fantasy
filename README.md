@@ -65,10 +65,13 @@ Players can choose to start the game or exit the game. When the mouse hovers ove
 - **Win condition**: The player wins when the player eliminates all enemy units, and the interface will display victory information to the player.
 - **Loss condition**: The player loses when the player loses all units, and the interface will display defeat information to the play
 - ## ***Author***
-[Hewen Shen](https://www.linkedin.com/in/hewen-shen-b94a26334/)
+### Developer:
+- [Hewen Shen](https://www.linkedin.com/in/hewen-shen-b94a26334/)     
+📧 [hewenshen0408@gmail.com](mailto:hewenshen0408@gmail.com)
 
-Lu Zhang
+- Lu Zhang
 
-Xinyi Zhang
-
-Mengmeng Lu
+- Xinyi Zhang
+### UI Designer:
+- Mengmeng Lu  
+📧 [luumengmeng@163.com](mailto:luumengmeng@163.com)
